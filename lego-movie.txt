@@ -216,7 +216,7 @@ not invited to my <span class="thing">birthday<sup>thing</sup></span>.
 <span class="person">Emmet<sup>person</sup></span> ERASES his drawing, a pariah. A little <span class="person">GIRL<sup>person</sup></span> looks
 at him from afar with sympathy.
 BACK TO SCENE
-DORIS
+<span class="person">DORIS<sup>person</sup></span>
 I hated that day. The kids were so
 mean, the school tried to expel
 you... I promised <span class="person">myself<sup>person</sup></span> I’d never
