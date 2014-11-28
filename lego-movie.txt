@@ -208,7 +208,7 @@ SLOW MOTION: All the kids in the class GASP.
 INT. <span class="place">CAFETERIA<sup>place</sup></span> - MOMENTS <span class="place">LATER<sup>place</sup></span>
 <span class="person">Emmet<sup>person</sup></span> sits alone, crying. The other kids sit at other
 tables and whisper...
-KIDS
+<span class="person">KIDS<sup>person</sup></span>
 That’s the guys who drew a face. /
 What a weirdo. / He doesn’t know
 how to follow instructions. / He’s
@@ -225,7 +225,7 @@ you again. And it hasn’t. So you
 need to let your <span class="thing">memory<sup>thing</sup></span> of that
 day go. It never happened.
 <span class="person">EMMET<sup>person</sup></span>
-I just want to be normal, Mom.
+I just want to be normal, <span class="person">Mom<sup>person</sup></span>.
 <span class="person">DORIS<sup>person</sup></span>
 Listen. You’re my son. And you’re
 the most normal, regular, average
@@ -241,9 +241,9 @@ No. Yes. <span class="person">Emmet<sup>person</sup></span>...
 She wants to tell him something, but thinks better of it.
 <span class="person">DORIS<sup>person</sup></span>
 Don’t forget dinner.
-EMMET
+<span class="person">EMMET<sup>person</sup></span>
 Promise.
-DORIS
+<span class="person">DORIS<sup>person</sup></span>
 <span class="thing">LEGO<sup>thing</sup></span>
 <span class="thing">THE PIECE OF RESISTANCE<sup>thing</sup></span>
 by
