@@ -7,13 +7,13 @@
 
 Written by
 
-Aaron Sorkin
+<span class="person" style="background-color: rgb(255, 184, 120);">Aaron Sorkin<sup>person</sup></span>
 
 
 
 Revised Third Draft
 
-July 15, 1991
+<span class="date" style="background-color: rgb(84, 132, 237);">July 15, 1991<sup>date</sup></span>
 
 
 
