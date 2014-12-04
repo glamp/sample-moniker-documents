@@ -1013,8 +1013,8 @@ the doctor that my body has trouble
 with the hot sun and I hyperventilate. 
 I ask you to help me. Please sir. I 
 just need to be transferred out of 
-RSC. Sincerely. PFC William T. 
-Santiago. U.S. Marine Corps."
+RSC. Sincerely. <span class="person" style="background-color: rgb(164, 189, 252);">PFC William T. 
+Santiago. U.S. Marine Corps<sup>person</sup></span>."
 
 At this point, with SANTIAGO's letter still in V.O., we
 
