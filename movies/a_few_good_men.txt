@@ -19,7 +19,7 @@ Revised Third Draft
 
                FADE IN:
 
-               EXT. A SENTRY TOWER --
+               EXT. <span class="place" style="background-color: rgb(255, 136, 124);">A SENTRY TOWER<sup>place</sup></span> --
 
 -- in the middle of the night, in the middle of nowhere.
 
@@ -44,13 +44,13 @@ A WIDER SHOT OF THE FENCELINE. And we see by the moonlight
 that the tall wire-mesh fence winds its way far, far into 
 the distance.
 
-               SUBTITLE: UNITED STATES NAVAL BASE GUANTANAMO BAY - CUBA.
+               SUBTITLE: <span class="place" style="background-color: rgb(255, 136, 124);">UNITED STATES NAVAL BASE GUANTANAMO BAY - CUBA<sup>place</sup></span>.
 
 The drum cadence continues, and we
 
                                                                     CUT TO:
 
-               INT. A MARINE BARRACKS
+               INT. A <span class="place" style="background-color: rgb(255, 136, 124);"></span><span class="place" style="background-color: rgb(255, 136, 124);"><span class="place" style="background-color: rgb(255, 136, 124);">MARINE BAR</span>RACKS<sup>place</sup></span>
 
 We HEAR two pairs of footsteps and then
 
